@@ -35,6 +35,6 @@ Um aplicativo Android moderno desenvolvido com **Jetpack Compose** que consome a
 
 ## 🎥 Demonstração
 
-![Demonstração](assets/demo.gif)
+![Demonstração](asset/demo.gif)
 
 
