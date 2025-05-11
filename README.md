@@ -32,3 +32,5 @@ Um aplicativo Android moderno desenvolvido com **Jetpack Compose** que consome a
 | [Compose UI Test](https://developer.android.com/jetpack/compose/testing) | Testes de interface |
 
 ---
+
+[![Veja a demonstração no YouTube](https://img.youtube.com/vi/ID_DO_VIDEO/0.jpg)]([https://www.youtube.com/watch?v=ID_DO_VIDEO](https://youtube.com/shorts/x6xNqSekMlA))
