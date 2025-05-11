@@ -14,7 +14,6 @@ Um aplicativo Android moderno desenvolvido com **Jetpack Compose** que consome a
 - 📷 Carregamento de imagens com **Coil**
 - 🧭 Navegação declarativa com **Navigation Compose**
 - 💉 Injeção de dependência com **Hilt**
-- ✅ Testes básicos de UI com `ui-test-android`
 
 ---
 
