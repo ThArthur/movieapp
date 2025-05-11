@@ -1,35 +1,35 @@
 # 🎬 TMDB Movies App
 
-Um aplicativo Android moderno desenvolvido com **Jetpack Compose** que consome a [API do TMDB](https://www.themoviedb.org/) para exibir filmes populares, top-rated e em cartaz. O projeto segue as práticas recomendadas de arquitetura Android com **Hilt**, **Paging 3**, **Retrofit**, e muito mais.
+A modern Android app developed with **Jetpack Compose** that consumes the [TMDB API](https://www.themoviedb.org/) to display popular, top-rated, and currently showing movies. The project follows Android architecture best practices with **Hilt**, **Paging 3**, **Retrofit**, and much more.
 
 ---
 
-## ✨ Funcionalidades
+## ✨ Features
 
-- 🔍 Listagem de filmes populares, em alta e em cartaz
-- 📄 Detalhes do filme com descrição, nota, poster e data
-- 🔄 Paginação automática com **Paging Compose**
-- 🌗 Suporte a tema claro e escuro
-- 📡 Comunicação com a TMDB via **Retrofit + Gson**
-- 📷 Carregamento de imagens com **Coil**
-- 🧭 Navegação declarativa com **Navigation Compose**
-- 💉 Injeção de dependência com **Hilt**
+- 🔍 List of popular, trending, and currently showing movies
+- 📄 Movie details with description, rating, poster, and release date
+- 🔄 Automatic pagination with **Paging Compose**
+- 🌗 Light and dark theme support
+- 📡 Communication with TMDB API using **Retrofit + Gson**
+- 📷 Image loading with **Coil**
+- 🧭 Declarative navigation with **Navigation Compose**
+- 💉 Dependency injection with **Hilt**
 
 ---
 
-## 🛠️ Tecnologias e bibliotecas
+## 🛠️ Technologies and Libraries
 
-| Tecnologia | Uso |
-|------------|-----|
-| [Jetpack Compose](https://developer.android.com/jetpack/compose) | UI declarativa |
-| [Paging Compose](https://developer.android.com/jetpack/androidx/releases/paging) | Paginação de listas |
-| [Navigation Compose](https://developer.android.com/jetpack/compose/navigation) | Navegação entre telas |
-| [Retrofit2](https://square.github.io/retrofit/) + [Gson](https://github.com/google/gson) | Comunicação com APIs |
-| [OkHttp](https://square.github.io/okhttp/) | Cliente HTTP |
-| [Coil](https://coil-kt.github.io/coil/compose/) | Carregamento de imagens |
-| [Hilt](https://developer.android.com/training/dependency-injection/hilt-android) | Injeção de dependência |
-| [Kotlinx Serialization](https://github.com/Kotlin/kotlinx.serialization) | (Opcional) Serialização JSON |
-| [Compose UI Test](https://developer.android.com/jetpack/compose/testing) | Testes de interface |
+| Technology | Purpose |
+|------------|---------|
+| [Jetpack Compose](https://developer.android.com/jetpack/compose) | Declarative UI |
+| [Paging Compose](https://developer.android.com/jetpack/androidx/releases/paging) | List pagination |
+| [Navigation Compose](https://developer.android.com/jetpack/compose/navigation) | Navigation between screens |
+| [Retrofit2](https://square.github.io/retrofit/) + [Gson](https://github.com/google/gson) | API communication |
+| [OkHttp](https://square.github.io/okhttp/) | HTTP client |
+| [Coil](https://coil-kt.github.io/coil/compose/) | Image loading |
+| [Hilt](https://developer.android.com/training/dependency-injection/hilt-android) | Dependency injection |
+| [Kotlinx Serialization](https://github.com/Kotlin/kotlinx.serialization) | (Optional) JSON serialization |
+| [Compose UI Test](https://developer.android.com/jetpack/compose/testing) | UI testing |
 
 ---
 
