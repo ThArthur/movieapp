@@ -33,4 +33,7 @@ Um aplicativo Android moderno desenvolvido com **Jetpack Compose** que consome a
 
 ---
 
-[![Veja a demonstração no YouTube](https://img.youtube.com/vi/ID_DO_VIDEO/0.jpg)]([https://www.youtube.com/watch?v=ID_DO_VIDEO](https://youtube.com/shorts/x6xNqSekMlA))
+## 🎥 Demonstração
+
+[![Veja a demonstração no YouTube](https://img.youtube.com/vi/x6xNqSekMlA/0.jpg)](https://youtube.com/shorts/x6xNqSekMlA)
+
